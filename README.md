@@ -13,7 +13,7 @@ This project implements a Java client that connects to a server on port 5000, se
 
 ```sh
     git clone https://github.com/StefanoMacina/SocketServerTester.git
-    cd repository-name
+    cd SocketServer
 ```
 
 ### 2. Build the Project with Maven
