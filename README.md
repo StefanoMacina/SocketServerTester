@@ -12,7 +12,7 @@ This project implements a Java client that connects to a server on port 5000, se
 ### 1. Clone the Repository
 
 ```sh
-    git clone https://github.com/your-username/repository-name.git
+    git clone https://github.com/StefanoMacina/SocketServerTester.git
     cd repository-name
 ```
 
