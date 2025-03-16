@@ -1,6 +1,6 @@
-# Java Socket Client
+# Java Socket Server
 
-This project implements a Java client that connects to a server on port 5000, sends a request, and waits for a response. If the connection fails, the client will attempt to reconnect up to 10 times with a delay of 2 seconds between each attempt.
+This is a Java-based socket single thread server application with a GUI built using Swing. It listens for client connections, processes incoming messages, and sends responses back to the client. The server can be started and stopped via the GUI, and all activities are logged in real-time.
 
 ## Requirements
 
